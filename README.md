@@ -1,4 +1,6 @@
-# what 
+# tiktok analytics hoops to jump through
 
+This GitHub Pages site hosts the Terms of Service and Privacy Policy for my personal TikTok analytics app.
 
-apis like tiktok, ig and youtube have a crazy amount of barriers to just accessing my own video performance. this is part of app registration
+- [Terms of Service](terms-of-service.html)
+- [Privacy Policy](privacy-policy.html)
